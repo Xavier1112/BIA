@@ -1,0 +1,24 @@
+# Generative AI disclosure — initial demo
+
+Tool: OpenAI Codex desktop agent.
+Date: 2026-10-31.
+Use: proposing a nucleus-candidate segmentation demo; drafting Python analysis,
+Qt GUI, export, evaluation utilities, tests, setup scripts and documentation;
+debugging and running software checks.
+
+Representative prompts:
+- "我选GUI形式，你帮在我们选定的主题下再选个软件核心功能吧 ... 做一个完整的demo软件"
+- "PLEASE IMPLEMENT THIS PLAN: BreaKHis Nuclei Explorer ..."
+
+Agent checks: synthetic reference fixtures, export round trips, invalid inputs,
+batch behaviour and GUI checks. See VALIDATION.md for actual outcomes and limits.
+AI-generated content is not evidence of student understanding or contribution.
+
+TO BE COMPLETED BY THE GROUP BEFORE SUBMISSION:
+- Which functions each member read and can explain.
+- Code changes, alternative approaches and reasons for accepting/rejecting output.
+- Independent human annotations, test results and interpretation.
+- Further representative prompts and the resulting verified changes.
+- Any AI-assisted report editing and how facts/claims were checked.
+
+Do not remove this disclosure merely because the prose was subsequently polished.

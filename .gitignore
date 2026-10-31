@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+results/
+*.log
+.Rhistory
+.RData
+.env
+.env.*
+.idea/
+.vscode/
